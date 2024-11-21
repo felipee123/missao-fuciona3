@@ -1,2 +1,8 @@
 endereço do site
 http://127.0.0.1:8000/produto/novo/
+
+Método: PUT
+http://127.0.0.1:8000/api/produtos/1/
+
+Método: POST e GET 
+http://127.0.0.1:8000/api/produtos/
