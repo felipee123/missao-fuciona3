@@ -9,3 +9,12 @@
 
 Professor tudo bom espero que esteja tudo ótimo eu finalizei a atividade 2 eu espero que esteja tudo certo fiz conforme seu pediu e aqui está com uns imagens que eu tirei pra mostrar como está funcionando. 
 🤞😊😎
+
+
+Nessa ultima Ea Implementei a nova função que o senhor pediu eu usei o código antigo na segunda atividade Eu coloquei conforme o seu pedido usando crie uma API no aplicativo Postman  e também eu coloquei avaliação que o senhor pediu usando o os tokens. Eu espero mais uma ter acerto.
+
+![Captura de tela 2024-11-19 2118188](https://github.com/user-attachments/assets/81e6c60f-3d5e-4ec1-a7c1-d9ee918b9a49)
+![Captura de tela 2024-11-19 211512](https://github.com/user-attachments/assets/a61f7873-9b10-4096-84b8-85872bcd022b)
+![Captura de tela 2024-11-18 210443999](https://github.com/user-attachments/assets/f48e3dad-a0f4-4396-b409-17291b58e540)
+![Captura de tela 2024-11-18 21035822](https://github.com/user-attachments/assets/bbf94d6b-4e79-4747-ad3a-43833acecde0)
+![Captura de tela 2024-11-18 210246](https://github.com/user-attachments/assets/2ce8f135-4ee8-4d6a-b926-43149211de48)
